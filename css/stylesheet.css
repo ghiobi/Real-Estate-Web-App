@@ -1,0 +1,39 @@
+
+.jumbotron{
+	background:url(../background.jpg) center;
+	background-size: cover;
+	color: white;
+	height: 400px;
+	text-shadow: 0 0 2em #000000
+}
+
+.navbar-default{
+	background-color:#434343;
+	color: white;
+}
+.navbar-default .navbar-brand {
+	color:white;
+}
+.navbar-default .navbar-nav>li>a{
+	color:white;
+}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a{
+	color: white;
+}
+.navbar-default .navbar-text{
+	color:white;
+}
+.dropdown-menu{
+	background-color:#434343;
+}
+#footimage{
+	background:url(images/cityfoot.png);
+	height: 80px;
+	background-size:contain;
+	display:compact;
+}
+.transbox{
+	background-color: rgba(0, 0, 0, 0.4);
+	padding:.1em 4%;
+	border-radius: 10px;
+}

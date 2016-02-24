@@ -1,0 +1,26 @@
+body{
+	background: url(background_tenant.jpg) no-repeat center center fixed;
+	background-size: cover;
+
+}
+.well {
+	background-color: rgba(255, 255, 255, 0.8);
+	margin-top:10px;
+}
+
+.underline{
+	text-decoration: underline;
+
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+   
+@media screen and (max-width: 356px) {
+   #DELETEPROFILEBTN {
+       margin-top: 10px;
+   }
+}

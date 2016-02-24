@@ -1,0 +1,14 @@
+body{
+	background: url(background_registration.jpg) no-repeat center center fixed;
+	background-size: cover;
+
+}
+.well {
+	background-color: rgba(255, 255, 255, 0.8);
+	margin-top:10px;
+}
+
+.underline{
+	text-decoration: underline;
+
+}
